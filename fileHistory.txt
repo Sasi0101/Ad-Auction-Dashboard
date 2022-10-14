@@ -1,0 +1,4 @@
+3
+C:\Users\phili\IdeaProjects\seg\SEG\src\main\tests
+C:\Users\admin\Desktop\2_week_campaign_2
+C:\Users\Filyb\IdeaProjects\seg\SEG\src\main\tests

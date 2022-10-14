@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.example.seg</OriginalElement>
+  <nodes>
+    <node x="0.0" y="753.0">com.example.seg.ClickCostHistory</node>
+    <node x="0.0" y="357.0">com.example.seg.LineChartController</node>
+    <node x="596.0" y="632.0">com.example.seg.SaveAsPNG</node>
+    <node x="611.0" y="753.0">com.example.seg.HelloController</node>
+    <node x="0.0" y="852.0">com.example.seg.LoadMultipleFiles</node>
+    <node x="489.0" y="357.0">com.example.seg.FileHistory</node>
+    <node x="0.0" y="258.0">com.example.seg.ServerLog</node>
+    <node x="197.0" y="0.0">com.example.seg.DataFile</node>
+    <node x="355.0" y="753.0">com.example.seg.MenuScreen</node>
+    <node x="0.0" y="632.0">com.example.seg.FileHistoryItem</node>
+    <node x="714.5147679324893" y="-5.209563994374122">com.example.seg.KeyMetrics</node>
+    <node x="209.0" y="258.0">com.example.seg.ClickLog</node>
+    <node x="254.0" y="357.0">com.example.seg.FileScreen</node>
+    <node x="229.0" y="852.0">com.example.seg.LineChartViewer</node>
+    <node x="418.0" y="258.0">com.example.seg.ImpressionLog</node>
+    <node x="224.0" y="632.0">com.example.seg.MetricButton</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.example.seg.ImpressionLog" target="com.example.seg.DataFile">
+      <point x="0.0" y="-27.0" />
+      <point x="512.5" y="233.0" />
+      <point x="374.5" y="233.0" />
+      <point x="71.0" y="104.0" />
+    </edge>
+    <edge source="com.example.seg.ServerLog" target="com.example.seg.DataFile">
+      <point x="0.0" y="-27.0" />
+      <point x="94.5" y="233.0" />
+      <point x="232.5" y="233.0" />
+      <point x="-71.0" y="104.0" />
+    </edge>
+    <edge source="com.example.seg.ClickLog" target="com.example.seg.DataFile">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="104.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7678185745140389" x="480.5" y="443.0" />
+  <SelectedNodes>
+    <node>com.example.seg.KeyMetrics</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
